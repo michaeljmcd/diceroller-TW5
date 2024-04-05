@@ -1,0 +1,12 @@
+{
+	"tiddlers": [
+		{
+			"file": "rpg-dice-roller.min.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/michaeljmcd/diceroller/rpg-dice-roller.min.js",
+				"module-type": "library"
+			}
+		}
+	]
+}
